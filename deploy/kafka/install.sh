@@ -7,7 +7,7 @@ if [ $# -ge 1 ] ; then
 fi
 
 NS=kafka
-CHART_VERSION=1.5.0
+CHART_VERSION=18.3.1
 UI_CHART_VERSION=0.4.2
 
 echo Create $NS namespace
